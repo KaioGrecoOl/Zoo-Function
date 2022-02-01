@@ -3,7 +3,7 @@ const data = require('../data/zoo_data');
 
 function getSpecies(index) {
   return species.filter((animal) => index.includes(animal.id));
-};
+}
 
 function getName(index) {
   return getSpecies(index).map((animal) => animal.name);
