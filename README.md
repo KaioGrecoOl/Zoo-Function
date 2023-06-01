@@ -12,7 +12,7 @@ The Project was developed at the end of Unit 8, where I had the opportunity to p
 
 Desenvolver desafios de lógica com JavaScript ES6 e praticar habilidade de utilizar a HOF para manipular e criar arrays.
 
-Develop logic challenges with JavaScript ES6 and practice skills using HOF to manipulate and create arrays.
+Develop logic challenges with JavaScript ES6 and practice the ability to use Higher Order Functions (HOF) to manipulate and create arrays.
 
 <!-- Olá, Tryber!
 
